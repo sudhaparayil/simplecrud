@@ -3,7 +3,6 @@ var cors = require ('cors');
 var bodyParser = require ('body-parser');
 var mongoose = require('mongoose');
 var Joi = require('joi');
-var Issue =  require('./models/Issue');
 var User =  require('./models/user');
 var port = process.env.PORT || 8080;
 var app = express();
