@@ -1,0 +1,18 @@
+table {
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  
+  td, th {
+    width: 25%;
+  }
+  .noItemFound{
+    text-align: center;
+    background-color: #ffffff;
+    border-bottom: 1px solid lightgray;
+  
+  }
